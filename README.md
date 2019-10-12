@@ -1,8 +1,12 @@
 # Travel_Recommender_System-StartUp-Idea #
 
-
+This Project is exploring the Business Idea of creating a Travel Recommender System that, based on your Social Media and other Online Data, creates custom daily itineraries for your next vacation.
 
 ----
+
+## Assignment Details ##
+
+Utilizing your knowledge of Advanced Analytics, Recommendation Engines, ML concepts etc. , develop a compelling Business Idea for a potential StartUp you would like to launch in the Travel Industry.
 
 ## Presentation Slides ##
 
