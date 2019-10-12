@@ -131,3 +131,9 @@ alt="Slide 1" width=fill>
 
 <img src="https://github.com/Fe1ix789/MBD/blob/master/Travel_Recommender_System-Project/Slide41.jpeg?raw=true" 
 alt="Slide 1" width=fill>
+
+## License ##
+
+The License is a general MIT license. Please see the LICENSE.rtf file in the Python_Project Folder as an additional reference.
+
+This work is a joint project by Wieland Klingspor, Felix Krueger, Ryan Chiu,  Alfonso Bucag, Anggie Legiando Pratama and Yegnesh Sundar during the IE Master in Big Data and Business Analytics.
